@@ -1,0 +1,85 @@
+event_time,transaction_id,type,origin_transaction_id,category,payment_method,fee,tax,iap_item_name,iap_item_price,discount_code,discount_amount
+22.12.2023 9:28:43,ifAJmLNrnl6EI5mq,,,Skins,Gift Card,"0,25","0,25",500 Gold Coins,"0,99",,0
+22.12.2023 11:16:42,LcXBtRhcp4D8HRTo,refund,ifAJmLNrnl6EI5mq,Skins,Gift Card,"0,25","0,25",500 Gold Coins,"0,99",,0
+22.12.2023 12:37:16,4fhZYCzyi7FcgtfK,,,Skins,Direct Card,"0,1","0,2",500 Gold Coins,"0,99",,0
+22.12.2023 12:42:24,4n8erSUqxwadMfd0,,,Feature Unlock,Gift Card,"0,15","0,15",500 Gold Coins,"0,99",,0
+22.12.2023 15:00:02,neiJ1xAwiSmcJT6p,,,Power-ups,Gift Card,"0,2","0,15",500 Gold Coins,"0,99",,0
+22.12.2023 15:49:23,l1efI8T6NmEraGdt,,,Virtual Currency,Gift Card,"0,2","0,15",500 Gold Coins,"0,99",,0
+22.12.2023 19:21:35,vhxAYnq193z9E6Fw,,,Feature Unlock,Direct Card,"0,15","0,35",500 Gold Coins,"0,99",,0
+22.12.2023 19:44:22,Ww4PebrEgcv2Va6g,refund,vhxAYnq193z9E6Fw,Feature Unlock,Direct Card,"0,15","0,35",500 Gold Coins,"0,99",,0
+22.12.2023 20:54:51,Ad2FutqiXAFRpvbV,,,Skins,Direct Card,"0,15","0,1",500 Gold Coins,"0,99",,0
+22.12.2023 7:22:23,Yb70VCbXzEdMtWxq,,,Skins,In-app Purchase,"0,2","0,05",Special Character Skin,"1,99",,0
+22.12.2023 9:08:26,cRiYLJnmm5tEZHnf,,,Power-ups,Gift Card,"0,1","0,1",Special Character Skin,"1,99",,0
+22.12.2023 12:33:14,lOSJXIm22W3mvIb2,,,Power-ups,In-app Purchase,"0,25","0,05",Special Character Skin,"1,99",,0
+22.12.2023 19:06:12,VwQhiBaZzhqGCPyn,,,Virtual Currency,In-app Purchase,"0,05","0,35",Special Character Skin,"1,99",,0
+22.12.2023 23:24:11,YkQ5nsomAc69CJwa,,,Power-ups,Direct Card,"0,1","0,2",Special Character Skin,"1,99",,0
+22.12.2023 6:01:50,bl6WywrPr6ZuMWCp,,,Skins,Direct Card,"0,3","0,15",Super Power Boost,"2,99",,0
+22.12.2023 8:08:31,eoD7aH66yKSDO5Ks,,,Skins,In-app Purchase,"0,25","0,3",Super Power Boost,"2,99",,0
+22.12.2023 13:16:59,Vljfdne1aBFDPTeI,,,Virtual Currency,In-app Purchase,"0,05","0,35",Super Power Boost,"2,99",,0
+22.12.2023 14:22:13,ziTmvAFvIT6GkMzP,,,Power-ups,Direct Card,"0,2","0,15",Super Power Boost,"2,99",,0
+22.12.2023 16:26:43,riWCoujKGNcPjSMi,,,Skins,In-app Purchase,"0,1","0,25",Super Power Boost,"2,99",,0
+22.12.2023 21:16:55,VvmGubVqCcGsGSrx,,,Feature Unlock,In-app Purchase,"0,2","0,05",Super Power Boost,"2,99",,0
+22.12.2023 21:47:06,cltSR2oKGAic7BAz,,,Feature Unlock,Gift Card,"0,25","0,25",Super Power Boost,"2,99",,0
+22.12.2023 22:00:21,Cm2rpDx6pu6imiEy,,,Feature Unlock,In-app Purchase,"0,15","0,1",Super Power Boost,"2,99",,0
+22.12.2023 8:12:16,TfvWIiJFrtPFXiSD,,,Power-ups,Gift Card,"0,15","0,15",Ad-Free Experience,"3,99",,0
+22.12.2023 8:48:40,fwf9B4njTj3VRdYm,,,Virtual Currency,Direct Card,"0,1","0,3",Ad-Free Experience,"3,99",,0
+22.12.2023 9:32:15,gqIslnLNZ1rB5UHb,,,Feature Unlock,In-app Purchase,"0,25","0,25",Ad-Free Experience,"3,99",,0
+22.12.2023 10:47:16,U8gq8ahyf8cTf7EO,,,Virtual Currency,In-app Purchase,"0,05","0,05",Ad-Free Experience,"3,99",,0
+22.12.2023 14:03:12,mtN4ChuvHwRzIZAg,,,Skins,In-app Purchase,"0,15","0,25",Ad-Free Experience,"3,99",,0
+22.12.2023 14:23:52,hw1X8xG2x33sptXh,,,Feature Unlock,Gift Card,"0,15","0,1",Ad-Free Experience,"3,99",,0
+22.12.2023 6:22:37,92a1AvNEYV1aSv6q,,,Feature Unlock,Gift Card,"0,3","0,35",Premium Level Access,"4,99",,0
+22.12.2023 6:29:34,czzJ1xa1zg4Vlx25,,,Skins,Gift Card,"0,05","0,35",Premium Level Access,"4,99",,0
+22.12.2023 8:12:45,c2A9jb1IrLEO9up8,,,Power-ups,In-app Purchase,"0,25","0,2",Premium Level Access,"4,99",,0
+22.12.2023 8:53:33,dARa2unl9boP8VQn,,,Virtual Currency,Direct Card,"0,1","0,05",Premium Level Access,"4,99",,0
+22.12.2023 10:36:44,uFXzly3kvmgPajQz,,,Skins,In-app Purchase,"0,1","0,15",Premium Level Access,"4,99",,0
+22.12.2023 13:37:30,WpyXaYOwPrFrQFR8,,,Virtual Currency,Gift Card,"0,3","0,15",Premium Level Access,"4,99",,0
+22.12.2023 15:05:14,lEe6av2fA0I60HQ3,,,Virtual Currency,In-app Purchase,"0,05","0,2",Premium Level Access,"4,99",,0
+22.12.2023 16:11:20,nByvIBNccanvk3Cq,,,Skins,Direct Card,"0,25","0,05",Premium Level Access,"4,99",,0
+22.12.2023 17:49:01,aSUgdCyMkRfeXKtE,refund,WpyXaYOwPrFrQFR8,Virtual Currency,Gift Card,"0,3","0,15",Premium Level Access,"4,99",,0
+22.12.2023 6:08:00,aJGmP4T90zTgcbDA,,,Power-ups,Gift Card,"0,3","0,05",Monthly VIP Subscription,"5,99",,0
+22.12.2023 12:09:56,fNnH1YSCHSyHiKi5,,,Power-ups,Gift Card,"0,25","0,3",Monthly VIP Subscription,"5,99",,0
+22.12.2023 15:05:25,qLrK9sjocB6xGCIO,,,Feature Unlock,Gift Card,"0,1","0,1",Monthly VIP Subscription,"5,99",,0
+22.12.2023 17:46:13,Y7W7SrLyPoS6PvPf,,,Skins,Gift Card,"0,3","0,3",Monthly VIP Subscription,"5,99",,0
+22.12.2023 19:01:42,wL2yA0UAVfnCRO1r,,,Skins,Direct Card,"0,3","0,05",Monthly VIP Subscription,"5,99",,0
+22.12.2023 19:04:19,wJXyeJ45N2qUeE5x,,,Skins,In-app Purchase,"0,3","0,05",Monthly VIP Subscription,"5,99",,0
+22.12.2023 20:18:13,u8M53H8Ve9DymzNQ,,,Virtual Currency,Direct Card,"0,1","0,2",Monthly VIP Subscription,"5,99",,0
+22.12.2023 20:48:59,AIm9P8uoNj6zho1m,,,Power-ups,Gift Card,"0,1","0,25",Monthly VIP Subscription,"5,99",,0
+22.12.2023 20:53:41,XnNtBAglcgGHZBNA,,,Feature Unlock,Direct Card,"0,05","0,1",Monthly VIP Subscription,"5,99",,0
+22.12.2023 22:30:05,DGV7wAnb2f38CwFK,,,Feature Unlock,Direct Card,"0,05","0,35",Monthly VIP Subscription,"5,99",,0
+22.12.2023 23:41:27,7BKLE8o29AZP1HZo,,,Skins,In-app Purchase,"0,3","0,35",Monthly VIP Subscription,"5,99",,0
+22.12.2023 23:59:26,zMUBdOA63nWUZ9Wq,,,Skins,In-app Purchase,"0,1","0,35",Monthly VIP Subscription,"5,99",,0
+22.12.2023 9:28:52,haLBfl7zxk0QaYVv,,,Skins,In-app Purchase,"0,2","0,15",500 Gold Coins,"0,99",VIP15,"0,15"
+22.12.2023 13:27:48,jatRl1hGiZ70hgLX,,,Feature Unlock,Gift Card,"0,05","0,25",500 Gold Coins,"0,99",VIP15,"0,15"
+22.12.2023 6:56:00,bOZFC6iYPut7Tumd,,,Skins,Direct Card,"0,3","0,15",Special Character Skin,"1,99",VIP15,"0,15"
+22.12.2023 15:52:52,UnUY2ELliJTeHF8R,,,Skins,Gift Card,"0,1","0,25",Special Character Skin,"1,99",VIP15,"0,15"
+22.12.2023 19:37:10,5zoxajG8ejF0Hcea,,,Feature Unlock,In-app Purchase,"0,25","0,05",Super Power Boost,"2,99",VIP15,"0,15"
+22.12.2023 7:04:51,RRF6s4vOjGWnUWtK,,,Feature Unlock,Gift Card,"0,25","0,35",Ad-Free Experience,"3,99",VIP15,"0,15"
+22.12.2023 14:57:59,mwUUVr50Wb5kJEzi,,,Feature Unlock,In-app Purchase,"0,25","0,2",Ad-Free Experience,"3,99",VIP15,"0,15"
+22.12.2023 4:35:23,bYLJ14b8a1LlwzL3,,,Virtual Currency,In-app Purchase,"0,15","0,2",Monthly VIP Subscription,"5,99",VIP15,"0,15"
+22.12.2023 15:55:26,Rsb7gcdYc87tsz8Y,,,Virtual Currency,In-app Purchase,"0,05","0,15",500 Gold Coins,"0,99",BONUS5,"0,05"
+22.12.2023 13:54:03,pOHuvGcEhPirZSsi,,,Feature Unlock,Direct Card,"0,2","0,05",Special Character Skin,"1,99",BONUS5,"0,05"
+22.12.2023 14:20:16,pSjMIdhjkkFNj6uk,,,Power-ups,Gift Card,"0,05","0,1",Special Character Skin,"1,99",BONUS5,"0,05"
+22.12.2023 20:28:11,U4zT1jnVaUFJ5hqP,,,Power-ups,In-app Purchase,"0,3","0,2",Special Character Skin,"1,99",BONUS5,"0,05"
+22.12.2023 8:44:36,ekNrIapYF8kGi97M,,,Feature Unlock,Gift Card,"0,1","0,35",Super Power Boost,"2,99",BONUS5,"0,05"
+22.12.2023 11:44:34,jZkanHNI3GcZwQbh,,,Virtual Currency,In-app Purchase,"0,15","0,3",Super Power Boost,"2,99",BONUS5,"0,05"
+22.12.2023 12:37:52,7ibrEH5CNFOB6CEd,refund,jZkanHNI3GcZwQbh,Virtual Currency,In-app Purchase,"0,15","0,3",Super Power Boost,"2,99",BONUS5,"0,05"
+22.12.2023 9:49:55,8Pdxlecx8fGQyCIo,,,Power-ups,In-app Purchase,"0,15","0,05",Ad-Free Experience,"3,99",BONUS5,"0,05"
+22.12.2023 12:23:23,mvhlGbRF7Mc1zD6W,,,Virtual Currency,In-app Purchase,"0,3","0,2",Ad-Free Experience,"3,99",BONUS5,"0,05"
+22.12.2023 21:50:43,883xvOs4hapTL0mx,,,Feature Unlock,In-app Purchase,"0,1","0,3",Ad-Free Experience,"3,99",BONUS5,"0,05"
+22.12.2023 10:43:14,iXBv0HcljolUbk5D,,,Feature Unlock,Gift Card,"0,1","0,1",Premium Level Access,"4,99",BONUS5,"0,05"
+22.12.2023 19:32:38,4Zw3EZE6OajWZ1Ch,,,Skins,Gift Card,"0,1","0,35",Premium Level Access,"4,99",BONUS5,"0,05"
+22.12.2023 21:51:17,B5Cf3CMQUYafmwBk,,,Virtual Currency,Direct Card,"0,05","0,1",Premium Level Access,"4,99",BONUS5,"0,05"
+22.12.2023 23:43:44,BCh0kcRlYza2G6FN,,,Virtual Currency,In-app Purchase,"0,3","0,1",Premium Level Access,"4,99",BONUS5,"0,05"
+22.12.2023 16:06:27,XtHTY6pu0ddBHeiO,,,Power-ups,Direct Card,"0,05","0,2",Monthly VIP Subscription,"5,99",BONUS5,"0,05"
+22.12.2023 21:28:18,zbJoz8LeBX7bXDUy,,,Power-ups,Direct Card,"0,2","0,35",500 Gold Coins,"0,99",SALE10,"0,1"
+22.12.2023 6:45:32,b7UYQZKDzgM1CX52,,,Skins,Direct Card,"0,25","0,35",Special Character Skin,"1,99",SALE10,"0,1"
+22.12.2023 7:37:25,0d2PC64z5Wg77TWX,,,Skins,Direct Card,"0,3","0,35",Special Character Skin,"1,99",SALE10,"0,1"
+22.12.2023 17:02:44,vU9b2mLf3MTnCPjC,,,Virtual Currency,In-app Purchase,"0,25","0,3",Special Character Skin,"1,99",SALE10,"0,1"
+22.12.2023 23:36:57,8EPL0uxeK89ZZGhP,,,Feature Unlock,Direct Card,"0,25","0,35",Special Character Skin,"1,99",SALE10,"0,1"
+22.12.2023 8:12:59,0dp3B5gfSurqOpvm,,,Skins,In-app Purchase,"0,3","0,15",Super Power Boost,"2,99",SALE10,"0,1"
+22.12.2023 23:28:20,4unJnXmgre0932xo,,,Power-ups,In-app Purchase,"0,15","0,05",Super Power Boost,"2,99",SALE10,"0,1"
+22.12.2023 11:09:36,etAVGeUx8CsINCa8,,,Skins,Gift Card,"0,3","0,15",Ad-Free Experience,"3,99",SALE10,"0,1"
+22.12.2023 8:49:09,eDspWZefsBN3dhyX,,,Feature Unlock,In-app Purchase,"0,05","0,15",Premium Level Access,"4,99",SALE10,"0,1"
+22.12.2023 11:51:32,jCf3CfUDknzk7XHQ,,,Virtual Currency,Direct Card,"0,3","0,2",Premium Level Access,"4,99",SALE10,"0,1"
+22.12.2023 7:57:59,b8HDXz8gXLLAbeL7,,,Skins,Direct Card,"0,25","0,25",Monthly VIP Subscription,"5,99",SALE10,"0,1"
+22.12.2023 16:59:03,Zp4Hc4heSSmfVS3o,,,Virtual Currency,In-app Purchase,"0,3","0,3",Monthly VIP Subscription,"5,99",SALE10,"0,1"
